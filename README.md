@@ -13,7 +13,7 @@ The framework combines signal processing and deep learning techniques to remove 
 ## Pipeline
 
 ```
-MIT-BIH ECG
+ MIT-BIH ECG
       │
       ▼
  ICA Denoising
